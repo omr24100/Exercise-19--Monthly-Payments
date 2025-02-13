@@ -2,7 +2,7 @@
 //
 /* 
 File Name: Exercuse 19- Monthly Payments
-GitHub URL:
+GitHub URL:https://github.com/omr24100/Exercise-19--Monthly-Payments.git
 Programmer: Olivia Ruiz
 Date: 2/12/25
 Requirments: The monthly payments on a loan may be calculated by the following formula: Payment= rate(1+rate)^N/((1+Rate)^N -1) * L
